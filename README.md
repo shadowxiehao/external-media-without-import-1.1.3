@@ -22,3 +22,6 @@
 (之后便可以在媒体库找到你加入的文件了,如果信息无误的话)
 
 ![](./demonstration/demonstration2.png)
+
+
+针对原版的小改动说明:将MIME Type中输入的信息记录到php文件中的'post_mime_type' => $mime_type 中的$mime_type处, 使得记录入数据库的格式信息为MIME Type中填入的格式信息
