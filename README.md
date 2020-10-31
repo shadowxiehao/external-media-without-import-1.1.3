@@ -11,8 +11,14 @@
 
 ![](./demonstration/demonstration0.png)
 
-安装只要替换掉原zip 1.1.2版本包中php文件,之后卸载原版插件,上传安装这个版本即可
+安装只要替换掉原zip 1.1.2版本包中php文件,打包上传安装替换后的版本即可(记得先卸载原版)
+
+以插入外链视频为例:
+
+(先随便输入无效地址后弹出下图,填写视频信息,注意类型根据你视频格式填写,这里以mp4演示, 图片同理)
 
 ![](./demonstration/demonstration1.png)
+
+(之后便可以在媒体库找到你加入的文件了,如果信息无误的话)
 
 ![](./demonstration/demonstration2.png)
