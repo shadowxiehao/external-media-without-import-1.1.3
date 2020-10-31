@@ -9,6 +9,10 @@
 
 例如jpg图片填入: image/jpeg
 
-![](show.png)
+![](./demonstration/demonstration0.png)
 
 安装只要替换掉原zip 1.1.2版本包中php文件,之后卸载原版插件,上传安装这个版本即可
+
+![](./demonstration/demonstration1.png)
+
+![](./demonstration/demonstration2.png)
