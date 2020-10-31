@@ -3,7 +3,7 @@
 
 (原先插件介绍可见readme_old文件,或移步至https://github.com/zzxiang/external-media-without-import)
 
-改动如下: 在下图的 MIME Type 处,填入对应文件类型后再提交,前面的大小信息随便填个大于0的数就好,这样就能正确识别文件了
+改动如下: 在下图的 MIME Type 处(先随便输入无效地址后会弹出),填入对应文件类型后再提交,前面的大小信息随便填个大于0的数就好,这样就能正确识别文件了
 
 例如mp4视频填入: video/mp4
 
